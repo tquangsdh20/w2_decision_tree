@@ -422,7 +422,6 @@ print(dot_data)
     }
     
 
-
-```python
-
-```
+<p align="center">
+<img src="/.github/tree.svg">
+</p>
